@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Build and dist files
+build/
+dist/
+*.js.map
+
+# Config files
+config/*.local.js
+config/*.local.json
+
+# Environment files
+.env
+*.env.*
+
+# Coverage files
+coverage/
+*.lcov
+
+# Test files
+test/coverage/
+test/tmp/
+
+# Other files
+*.swp
+*.tmp
